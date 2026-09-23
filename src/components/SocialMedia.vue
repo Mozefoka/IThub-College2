@@ -76,10 +76,10 @@
 
   &__list-item {
     a {
-      width: 100px;
-      height: 100px;
+      width: 90px;
+      height: 90px;
       border-radius: 50%;
-      background-color: $color-purple;
+      background-color: #9a33f4;
 
       @media (max-width: 959px) {
         width: 70px;
